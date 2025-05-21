@@ -13,4 +13,4 @@ psycopg[binary]
 pypdf
 streamlit
 google-genai
-
+pydantic
