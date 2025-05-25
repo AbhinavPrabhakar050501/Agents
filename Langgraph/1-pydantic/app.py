@@ -1,3 +1,7 @@
+#pydantic is basically a datatype validation technique, where the annotations actually
+# work unlike using @dataclasses
+
+
 from pydantic import BaseModel,Field
 from typing import Optional,List
 class Person(BaseModel):

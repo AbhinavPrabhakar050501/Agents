@@ -14,3 +14,8 @@ pypdf
 streamlit
 google-genai
 pydantic
+langchain
+langchain-community
+langchain-core
+langgraph
+ipykernel
